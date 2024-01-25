@@ -1,12 +1,12 @@
 # Sample YAML File
 name: Rohit Yadav
 age: 30
-city: Exampleville
+city: Mumbai Suburban
 is_student: false
 grades:
-  - subject: Math
+  - subject: Dsa
     score: 95
-  - subject: English
+  - subject: OS
     score: 85
-  - subject: Science
+  - subject: DBMS
     score: 90
