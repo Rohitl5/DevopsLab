@@ -2,11 +2,11 @@
 name: Rohit Yadav
 age: 30
 city: Mumbai Suburban
-is_student: false
+is_student: true
 grades:
   - subject: Dsa
     score: 95
   - subject: OS
     score: 85
   - subject: DBMS
-    score: 90
+    score: 67
